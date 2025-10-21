@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+load_data.ipynb
+sveltekit
+faiss.index
+docker-compose.yml
+.python-version
+.pytest_cache
+Graph.drawio
+.txt
+# Virtual environments
+.venv
+.env

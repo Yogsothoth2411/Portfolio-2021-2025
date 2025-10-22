@@ -6,8 +6,8 @@
 | 專案名稱                                    | 描述                                                   | 時間   | 類型              |
 | ------------------------------------------ | ------------------------------------------------------ | ------ | ---------------- |
 | **[RAG-based Health Diet Q&A System]** | 碩士論文。探討 RAG（Retrieval Augmented Generation）於健康飲食問答系統中的應用與使用者體驗評估。包含 SUS、BUS 問卷與半結構式訪談分析。<br> [論文網站連結](https://hdl.handle.net/11296/bu732b) | 2025 |  碩士論文|
-| **[Learning-lab]**  | 是我的個人練習與實驗庫，用於存放各類程式、AI 技術、資料分析與系統設計的小練習與 DEMO。<br> [GitHub Repo](https://github.com/Yogsothoth2411/Learning-lab)| 2023-2025 |  個人練習|
 | **[AdaptiveRAG Reflex Demo]** | 基於 LangChain 的 AdaptiveRAG 教學架構延伸與改良，加入自定義節點與擴充功能。<br> [GitHub Repo](https://github.com/Yogsothoth2411/Adaptive-RAG-Reflex-Demo)| 2025 |  Side Project |
+| **[Learning-lab]**  | 是我的個人練習與實驗庫，用於存放各類程式、AI 技術、資料分析與系統設計的小練習與 DEMO。<br> [GitHub Repo](https://github.com/Yogsothoth2411/Learning-lab)| 2023-2025 |  個人練習|
 | **[Ithome News Analysis]** | 使用爬蟲蒐集 iThome 新聞，進行聲量與主題趨勢分析，並以網頁視覺化呈現。<br> [課堂報告 PDF](/Ithome-News-Analysis)| 2024 |  課堂專案 |
 | **[Fire Extinguisher]**| 校園滅火器管理流程改進專案，結合 App 與網頁後台以提升管理效率。<br> [專案報告 PDF](https://reurl.cc/XQoMkM)| 2023 |  大學專題 |
 | **[Puzzle]**| 蒸汽龐克風格的俄羅斯方塊遊戲，含 Demo 影片。<br> [Demo 影片連結](https://www.youtube.com/watch?v=ykEmfWxmRfI)| 2021 |  課堂專案|
